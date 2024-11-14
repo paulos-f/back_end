@@ -8,7 +8,7 @@
         <version>3.3.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.orben</groupId>
+    <groupId>com.exemplo</groupId>
     <artifactId>exercicio12</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>exercicio12</name>
